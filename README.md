@@ -1,7 +1,5 @@
-<img width="200" height="200" align="right" alt="Walmart-Logo" src="https://github.com/user-attachments/assets/a2a97696-f449-4c5b-865d-a11428243c24" />
-
 # Walmart Sales Performance Dashboard
-<img width="1000" height="1000" alt="Walmart" src="https://github.com/user-attachments/assets/10edbb24-6e19-4e86-9d5c-c845a395c59e" />
+<img width="1000" height="600" alt="Walmart" src="https://github.com/user-attachments/assets/af043261-5476-4edc-ad3e-b415a1f48c44" />
 
 ## Project Overview
 
