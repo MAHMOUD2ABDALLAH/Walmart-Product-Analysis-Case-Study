@@ -147,6 +147,4 @@ Data Analytics & Business Intelligence Specialist
 ### Contact
 **Mahmoud_Abdallah20@outlook.com**
 
----
-
-*This dashboard serves as a powerful tool for Walmart's executive team to monitor performance, identify opportunities, and drive strategic business growth through data-driven insights.*
+<img width="200" height="200" alt="Walmart" src="https://github.com/user-attachments/assets/370d7dab-24e7-467a-ac25-6c1f0fa43526" />
