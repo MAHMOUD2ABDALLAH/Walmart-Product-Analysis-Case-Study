@@ -146,5 +146,3 @@ Data Analytics & Business Intelligence Specialist
 
 ### Contact
 **Mahmoud_Abdallah20@outlook.com**
-
-<img width="100" height="100" alt="Walmart" src="./Walmart.svg" />
